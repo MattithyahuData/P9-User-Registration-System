@@ -2,7 +2,7 @@
 <html>
 <head>
     
-    <title>Registration</title>
+    <title>the Registration</title>
 </head>
 <body>
 
