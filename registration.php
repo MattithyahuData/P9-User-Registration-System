@@ -1,3 +1,4 @@
+<?php include('server.php') ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,6 +16,8 @@
     </div>
 
     <form action="registration.php" method="post">
+        
+        <?php include('errors.php') ?>
 
 
     <div>
