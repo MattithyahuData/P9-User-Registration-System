@@ -19,25 +19,27 @@
 
     <div>
         <label for="username">Username : </label>
-        <input type="text" name="username">
+        <input type="text" name="username" required>
     </div>
 
     <div>
         <label for="email">Email : </label>
-        <input type="text" name="email">
+        <input type="text" name="email" required>
     </div>
 
     <div>
         <label for="password">Password : </label>
-        <input type="text" name="password_1">
+        <input type="text" name="password_1" required>
     </div>
 
     <div>
         <label for="password">Confirm Password : </label>
-        <input type="text" name="password_2">
+        <input type="text" name="password_2" required>
     </div>
 
-    <button type="submit"> Submit </button>
+    <button type="submit" name="reg_user"> Submit </button>
+
+    <p>Already a user?<a href="login.php"><b>Log in</b></a></p>
 
     </form>
 
