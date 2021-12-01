@@ -39,18 +39,8 @@ After creating the table, I needed to create the different registration and logi
 Log in page
 
 <img src="images/Login Page.png" alt="Alt text that describes the graphic" title="Title text" />
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
 
-## Data Warehousing
-AAAAAAAAAAAAAAAAAAAAAAAAA
-
-*   Made a new column for company state 
-*   Added a column for if the job was at the company’s headquarters 
-*   Transformed founded date into age of company 
 
 ## Evaluation 
-In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary. 
 
 
