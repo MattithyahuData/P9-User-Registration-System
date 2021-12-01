@@ -40,7 +40,7 @@ After creating the table, I needed to create the different registration and logi
 ## View
 Login page
 
-<img src="images/Login Page.png" alt="Alt text that describes the graphic" title="Title text" />
+<img src="images/Login Page.png" />
 
 
 ## Evaluation 
