@@ -37,12 +37,10 @@ After creating the table, I needed to create the different registration and logi
 *   [errors.php](errors.php) 
 
 
-## View
+## Final View
 Login page
 
 <img src="images/LoginView.png" />
 
-
-## Evaluation 
 
 
