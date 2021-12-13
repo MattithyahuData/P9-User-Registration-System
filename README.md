@@ -1,4 +1,4 @@
-# User Registration System: Project Overview 
+# 💻User Registration System: Project Overview 
 * Integrating mySQL databases and PHP scripts 
 * Inserting values into database or reading values from them
 * Mimicking platforms that use User registration and applying logic in PHP to ensure certain parameters 
