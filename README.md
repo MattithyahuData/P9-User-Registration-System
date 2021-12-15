@@ -37,6 +37,7 @@ After creating the table, I needed to create the different registration and logi
 *   [errors.php](errors.php) 
 
 
+
 ## Final View
 Login page
 
