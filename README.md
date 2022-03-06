@@ -3,8 +3,22 @@
 * Inserting values into database or reading values from them
 * Mimicking platforms that use User registration and applying logic in PHP to ensure certain parameters 
 
+## Table of Contents 
+*   [Resources](#resources)<br>
+*   [Database Creation](#Datacreate)<br>
+*   [Page Creation](#Pagecreate)<br>
+*   [Final View](#Finalview)<br>
+*   [Project Management (Agile/Scrum/Kanban)](#Prjmanage)<br>
+*   [Project Evaluation](#PrjEval)<br>
+*   [Looking Ahead](#Lookahead)<br>
+*   [Questions & Contact me](#Questions)<br
+
+<a name="resources"></a> 
+
 ## Resources Used
 **PHP, mySQL, Apache, XAMPP** 
+
+<a name="Datacreate"></a> 
 
 ## Database creation 
 Using localhost/phpmyadmin/ I created a new database and a new table with the fields that PHP scripts will point to
@@ -14,6 +28,8 @@ Using localhost/phpmyadmin/ I created a new database and a new table with the fi
     *   Username
     *   Email
     *   Password
+
+<a name="Pagecreate"></a> 
 
 ## Page creation
 After creating the table, I needed to create the different registration and login pages for the user. I made the following changes and created the following pages:
@@ -37,11 +53,42 @@ After creating the table, I needed to create the different registration and logi
 *   [errors.php](errors.php) 
 
 
+<a name="Finalview"></a>
 
 ## Final View
 Login page
 
 <img src="images/LoginView.png" />
+
+
+<a name="Prjmanage"></a> 
+
+## [Project Management (Agile/Scrum/Kanban)](https://www.atlassian.com/software/jira)
+* Resources used
+    * Jira
+    * Confluence
+    * Trello 
+
+<a name="PrjEval"></a> 
+
+## [Project Evaluation]() 
+*   WWW
+    *   Front end and Back end engineering
+*   EBI 
+    *   Could this project be deployed? 
+    
+
+<a name="Lookahead"></a> 
+
+## Looking Ahead
+*  Can ML be used with a backend database such as this ?? Yes! 
+
+<a name="Questions"></a> 
+
+## Questions & Contact me 
+For questions, feedback, and contribution requests contact me
+* ### [Click here to email me](mailto:contactmattithyahu@gmail.com) 
+* ### [See more projects here](https://mattithyahudata.github.io/)
 
 
 
